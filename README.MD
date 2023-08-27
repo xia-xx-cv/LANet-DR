@@ -1,8 +1,11 @@
-# LANet-DR
-Lesion-aware network for diabetic retinopathy diagnosis: LANet.
+# LANet-DR: Lesion-aware Network for Diabetic Retinopathy Diagnosis
 scr: screening
 seg: segmentation
-DR: Retinopathy Diagnosis
+DR: retinopathy diagnosis
+LANet: lesion-aware net for DR lesion segmentation
+LASNet: lesion-aware disease screening net
+
+
 The experiments were conducted on Ubuntu OS with AMD Ryzen 5950X Processor, 64GB RAM, and an Nvidia GeForce RTX 3090 GPU. Some modifications may need for For running the codes on Windows OS.
 
 
@@ -17,7 +20,7 @@ The experiments were conducted on Ubuntu OS with AMD Ryzen 5950X Processor, 64GB
 
 ## test
 ```bash seg_test.sh``` or ```bash scr_test.sh```.
-The well-trained weights are stored in for inference without re-training, which are the same as those reported in the paper.
+The well-trained weights are available at [LANet-weights](https://pan.baidu.com/s/1qoLSHMcaOt7bthkRY68nqQ?pwd=fvsm) with pw ```fvsm``` and [LASNet-weights](https://pan.baidu.com/s/1uBILFc6FWQM9wRIZ2nFuEQ?pwd=1dja) with pw ```1dja``` for inference.
 
 You can apply the model in the folder "models" to your own training/testing codes. 
 
