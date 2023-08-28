@@ -20,7 +20,7 @@ The experiments were conducted on Ubuntu OS with AMD Ryzen 5950X Processor, 64GB
 
 ## test
 ```bash seg_test.sh``` or ```bash scr_test.sh```.
-The well-trained weights are available at [LANet-weights](https://pan.baidu.com/s/1qoLSHMcaOt7bthkRY68nqQ?pwd=fvsm) with pw ```fvsm``` and [LASNet-weights](https://pan.baidu.com/s/1uBILFc6FWQM9wRIZ2nFuEQ?pwd=1dja) with pw ```1dja``` for inference.
+The well-trained weights are available at [LANet-Baidu](https://pan.baidu.com/s/1qoLSHMcaOt7bthkRY68nqQ?pwd=fvsm) with pw ```fvsm```/[LANet-GoogleDrive](https://drive.google.com/drive/folders/1C54D5BWGO41I_X4ihGZ5sX4wPp0i13KG?usp=drive_link)/ and [LASNet-Baidu](https://pan.baidu.com/s/1uBILFc6FWQM9wRIZ2nFuEQ?pwd=1dja) with pw ```1dja```/[LANet-GoogleDrive](https://drive.google.com/drive/folders/1tmftuBqDJDWHoa5r5vTJ0gGtRnhg8Yct?usp=drive_link) for inference.
 
 You can apply the model in the folder "models" to your own training/testing codes. 
 
