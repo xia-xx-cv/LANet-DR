@@ -38,4 +38,4 @@ url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.22933},
 eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/ima.22933},
 }
 ```
-(arXiv_version)[https://arxiv.org/abs/2408.07264] (different with public version)
+[arXiv_version](https://arxiv.org/abs/2408.07264) (different with [public version](https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.22933))
